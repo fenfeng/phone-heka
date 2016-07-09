@@ -6,7 +6,7 @@ window.onload = function() {
 	var music = document.getElementById("music");
 	var audio = document.getElementsByTagName("audio")[0];
 
-	audio.addEventListener("ended", function(event) {
+/*	audio.addEventListener("ended", function(event) {
 		music.setAttribute("class", "");
 	}, false);
 
@@ -18,7 +18,7 @@ window.onload = function() {
 			audio.pause();
 			this.setAttribute("class", "");
 		};
-	}, false);
+	}, false);*/
 
 
 
