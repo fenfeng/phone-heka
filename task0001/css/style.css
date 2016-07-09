@@ -253,7 +253,7 @@ html, body {
 	margin: auto;
 	border-radius: 50%;
 	content: "";
-	background: url("..//images/p2_circle_middle.png") no-repeat center center;
+	background: url("../images/p2_circle_middle.png") no-repeat center center;
 	background-size: 100%;
 	width: 45.625vw;
 	height: 45.625vw;
@@ -380,7 +380,7 @@ html, body {
 	position: absolute;
 	top: 25.48vh;
 	left: 3.75vw;
-	background: url("..//images/p3_couplet_second.png")no-repeat center center;
+	background: url("../images/p3_couplet_second.png")no-repeat center center;
 	background-size: 100%;
 	-webkit-animation: p3_second 2s infinite alternate;
 	animation: p3_second 2s infinite alternate;
